@@ -1,0 +1,457 @@
+[
+{
+  "directory": "/Users/steventang/Projects/WebAssembly-obfuscator/build",
+  "command": "/Library/Developer/CommandLineTools/usr/bin/c++  -DWASM_API_EXTERN=\"__attribute__((visibility(\\\"default\\\")))\" -D__STDC_FORMAT_MACROS=1 -D__STDC_LIMIT_MACROS=1 -Dwasm_EXPORTS -I/Users/steventang/Projects/WebAssembly-obfuscator -I/Users/steventang/Projects/WebAssembly-obfuscator/build -I/Users/steventang/Projects/WebAssembly-obfuscator/third_party/wasm-c-api/include   -std=c++11 -Wold-style-cast -fno-exceptions -isysroot /Library/Developer/CommandLineTools/SDKs/MacOSX10.15.sdk -fPIC -fvisibility=hidden   -Wall -Wextra -Wno-unused-parameter -Wpointer-arith -g -Wuninitialized -Wno-old-style-cast -o CMakeFiles/wasm.dir/src/apply-names.cc.o -c /Users/steventang/Projects/WebAssembly-obfuscator/src/apply-names.cc",
+  "file": "/Users/steventang/Projects/WebAssembly-obfuscator/src/apply-names.cc"
+},
+{
+  "directory": "/Users/steventang/Projects/WebAssembly-obfuscator/build",
+  "command": "/Library/Developer/CommandLineTools/usr/bin/c++  -DWASM_API_EXTERN=\"__attribute__((visibility(\\\"default\\\")))\" -D__STDC_FORMAT_MACROS=1 -D__STDC_LIMIT_MACROS=1 -Dwasm_EXPORTS -I/Users/steventang/Projects/WebAssembly-obfuscator -I/Users/steventang/Projects/WebAssembly-obfuscator/build -I/Users/steventang/Projects/WebAssembly-obfuscator/third_party/wasm-c-api/include   -std=c++11 -Wold-style-cast -fno-exceptions -isysroot /Library/Developer/CommandLineTools/SDKs/MacOSX10.15.sdk -fPIC -fvisibility=hidden   -Wall -Wextra -Wno-unused-parameter -Wpointer-arith -g -Wuninitialized -Wno-old-style-cast -o CMakeFiles/wasm.dir/src/binary.cc.o -c /Users/steventang/Projects/WebAssembly-obfuscator/src/binary.cc",
+  "file": "/Users/steventang/Projects/WebAssembly-obfuscator/src/binary.cc"
+},
+{
+  "directory": "/Users/steventang/Projects/WebAssembly-obfuscator/build",
+  "command": "/Library/Developer/CommandLineTools/usr/bin/c++  -DWASM_API_EXTERN=\"__attribute__((visibility(\\\"default\\\")))\" -D__STDC_FORMAT_MACROS=1 -D__STDC_LIMIT_MACROS=1 -Dwasm_EXPORTS -I/Users/steventang/Projects/WebAssembly-obfuscator -I/Users/steventang/Projects/WebAssembly-obfuscator/build -I/Users/steventang/Projects/WebAssembly-obfuscator/third_party/wasm-c-api/include   -std=c++11 -Wold-style-cast -fno-exceptions -isysroot /Library/Developer/CommandLineTools/SDKs/MacOSX10.15.sdk -fPIC -fvisibility=hidden   -Wall -Wextra -Wno-unused-parameter -Wpointer-arith -g -Wuninitialized -Wno-old-style-cast -o CMakeFiles/wasm.dir/src/binary-reader.cc.o -c /Users/steventang/Projects/WebAssembly-obfuscator/src/binary-reader.cc",
+  "file": "/Users/steventang/Projects/WebAssembly-obfuscator/src/binary-reader.cc"
+},
+{
+  "directory": "/Users/steventang/Projects/WebAssembly-obfuscator/build",
+  "command": "/Library/Developer/CommandLineTools/usr/bin/c++  -DWASM_API_EXTERN=\"__attribute__((visibility(\\\"default\\\")))\" -D__STDC_FORMAT_MACROS=1 -D__STDC_LIMIT_MACROS=1 -Dwasm_EXPORTS -I/Users/steventang/Projects/WebAssembly-obfuscator -I/Users/steventang/Projects/WebAssembly-obfuscator/build -I/Users/steventang/Projects/WebAssembly-obfuscator/third_party/wasm-c-api/include   -std=c++11 -Wold-style-cast -fno-exceptions -isysroot /Library/Developer/CommandLineTools/SDKs/MacOSX10.15.sdk -fPIC -fvisibility=hidden   -Wall -Wextra -Wno-unused-parameter -Wpointer-arith -g -Wuninitialized -Wno-old-style-cast -o CMakeFiles/wasm.dir/src/binary-reader-ir.cc.o -c /Users/steventang/Projects/WebAssembly-obfuscator/src/binary-reader-ir.cc",
+  "file": "/Users/steventang/Projects/WebAssembly-obfuscator/src/binary-reader-ir.cc"
+},
+{
+  "directory": "/Users/steventang/Projects/WebAssembly-obfuscator/build",
+  "command": "/Library/Developer/CommandLineTools/usr/bin/c++  -DWASM_API_EXTERN=\"__attribute__((visibility(\\\"default\\\")))\" -D__STDC_FORMAT_MACROS=1 -D__STDC_LIMIT_MACROS=1 -Dwasm_EXPORTS -I/Users/steventang/Projects/WebAssembly-obfuscator -I/Users/steventang/Projects/WebAssembly-obfuscator/build -I/Users/steventang/Projects/WebAssembly-obfuscator/third_party/wasm-c-api/include   -std=c++11 -Wold-style-cast -fno-exceptions -isysroot /Library/Developer/CommandLineTools/SDKs/MacOSX10.15.sdk -fPIC -fvisibility=hidden   -Wall -Wextra -Wno-unused-parameter -Wpointer-arith -g -Wuninitialized -Wno-old-style-cast -o CMakeFiles/wasm.dir/src/binary-reader-logging.cc.o -c /Users/steventang/Projects/WebAssembly-obfuscator/src/binary-reader-logging.cc",
+  "file": "/Users/steventang/Projects/WebAssembly-obfuscator/src/binary-reader-logging.cc"
+},
+{
+  "directory": "/Users/steventang/Projects/WebAssembly-obfuscator/build",
+  "command": "/Library/Developer/CommandLineTools/usr/bin/c++  -DWASM_API_EXTERN=\"__attribute__((visibility(\\\"default\\\")))\" -D__STDC_FORMAT_MACROS=1 -D__STDC_LIMIT_MACROS=1 -Dwasm_EXPORTS -I/Users/steventang/Projects/WebAssembly-obfuscator -I/Users/steventang/Projects/WebAssembly-obfuscator/build -I/Users/steventang/Projects/WebAssembly-obfuscator/third_party/wasm-c-api/include   -std=c++11 -Wold-style-cast -fno-exceptions -isysroot /Library/Developer/CommandLineTools/SDKs/MacOSX10.15.sdk -fPIC -fvisibility=hidden   -Wall -Wextra -Wno-unused-parameter -Wpointer-arith -g -Wuninitialized -Wno-old-style-cast -o CMakeFiles/wasm.dir/src/binary-writer.cc.o -c /Users/steventang/Projects/WebAssembly-obfuscator/src/binary-writer.cc",
+  "file": "/Users/steventang/Projects/WebAssembly-obfuscator/src/binary-writer.cc"
+},
+{
+  "directory": "/Users/steventang/Projects/WebAssembly-obfuscator/build",
+  "command": "/Library/Developer/CommandLineTools/usr/bin/c++  -DWASM_API_EXTERN=\"__attribute__((visibility(\\\"default\\\")))\" -D__STDC_FORMAT_MACROS=1 -D__STDC_LIMIT_MACROS=1 -Dwasm_EXPORTS -I/Users/steventang/Projects/WebAssembly-obfuscator -I/Users/steventang/Projects/WebAssembly-obfuscator/build -I/Users/steventang/Projects/WebAssembly-obfuscator/third_party/wasm-c-api/include   -std=c++11 -Wold-style-cast -fno-exceptions -isysroot /Library/Developer/CommandLineTools/SDKs/MacOSX10.15.sdk -fPIC -fvisibility=hidden   -Wall -Wextra -Wno-unused-parameter -Wpointer-arith -g -Wuninitialized -Wno-old-style-cast -o CMakeFiles/wasm.dir/src/binary-writer-spec.cc.o -c /Users/steventang/Projects/WebAssembly-obfuscator/src/binary-writer-spec.cc",
+  "file": "/Users/steventang/Projects/WebAssembly-obfuscator/src/binary-writer-spec.cc"
+},
+{
+  "directory": "/Users/steventang/Projects/WebAssembly-obfuscator/build",
+  "command": "/Library/Developer/CommandLineTools/usr/bin/c++  -DWASM_API_EXTERN=\"__attribute__((visibility(\\\"default\\\")))\" -D__STDC_FORMAT_MACROS=1 -D__STDC_LIMIT_MACROS=1 -Dwasm_EXPORTS -I/Users/steventang/Projects/WebAssembly-obfuscator -I/Users/steventang/Projects/WebAssembly-obfuscator/build -I/Users/steventang/Projects/WebAssembly-obfuscator/third_party/wasm-c-api/include   -std=c++11 -Wold-style-cast -fno-exceptions -isysroot /Library/Developer/CommandLineTools/SDKs/MacOSX10.15.sdk -fPIC -fvisibility=hidden   -Wall -Wextra -Wno-unused-parameter -Wpointer-arith -g -Wuninitialized -Wno-old-style-cast -o CMakeFiles/wasm.dir/src/binding-hash.cc.o -c /Users/steventang/Projects/WebAssembly-obfuscator/src/binding-hash.cc",
+  "file": "/Users/steventang/Projects/WebAssembly-obfuscator/src/binding-hash.cc"
+},
+{
+  "directory": "/Users/steventang/Projects/WebAssembly-obfuscator/build",
+  "command": "/Library/Developer/CommandLineTools/usr/bin/c++  -DWASM_API_EXTERN=\"__attribute__((visibility(\\\"default\\\")))\" -D__STDC_FORMAT_MACROS=1 -D__STDC_LIMIT_MACROS=1 -Dwasm_EXPORTS -I/Users/steventang/Projects/WebAssembly-obfuscator -I/Users/steventang/Projects/WebAssembly-obfuscator/build -I/Users/steventang/Projects/WebAssembly-obfuscator/third_party/wasm-c-api/include   -std=c++11 -Wold-style-cast -fno-exceptions -isysroot /Library/Developer/CommandLineTools/SDKs/MacOSX10.15.sdk -fPIC -fvisibility=hidden   -Wall -Wextra -Wno-unused-parameter -Wpointer-arith -g -Wuninitialized -Wno-old-style-cast -o CMakeFiles/wasm.dir/src/color.cc.o -c /Users/steventang/Projects/WebAssembly-obfuscator/src/color.cc",
+  "file": "/Users/steventang/Projects/WebAssembly-obfuscator/src/color.cc"
+},
+{
+  "directory": "/Users/steventang/Projects/WebAssembly-obfuscator/build",
+  "command": "/Library/Developer/CommandLineTools/usr/bin/c++  -DWASM_API_EXTERN=\"__attribute__((visibility(\\\"default\\\")))\" -D__STDC_FORMAT_MACROS=1 -D__STDC_LIMIT_MACROS=1 -Dwasm_EXPORTS -I/Users/steventang/Projects/WebAssembly-obfuscator -I/Users/steventang/Projects/WebAssembly-obfuscator/build -I/Users/steventang/Projects/WebAssembly-obfuscator/third_party/wasm-c-api/include   -std=c++11 -Wold-style-cast -fno-exceptions -isysroot /Library/Developer/CommandLineTools/SDKs/MacOSX10.15.sdk -fPIC -fvisibility=hidden   -Wall -Wextra -Wno-unused-parameter -Wpointer-arith -g -Wuninitialized -Wno-old-style-cast -o CMakeFiles/wasm.dir/src/common.cc.o -c /Users/steventang/Projects/WebAssembly-obfuscator/src/common.cc",
+  "file": "/Users/steventang/Projects/WebAssembly-obfuscator/src/common.cc"
+},
+{
+  "directory": "/Users/steventang/Projects/WebAssembly-obfuscator/build",
+  "command": "/Library/Developer/CommandLineTools/usr/bin/c++  -DWASM_API_EXTERN=\"__attribute__((visibility(\\\"default\\\")))\" -D__STDC_FORMAT_MACROS=1 -D__STDC_LIMIT_MACROS=1 -Dwasm_EXPORTS -I/Users/steventang/Projects/WebAssembly-obfuscator -I/Users/steventang/Projects/WebAssembly-obfuscator/build -I/Users/steventang/Projects/WebAssembly-obfuscator/third_party/wasm-c-api/include   -std=c++11 -Wold-style-cast -fno-exceptions -isysroot /Library/Developer/CommandLineTools/SDKs/MacOSX10.15.sdk -fPIC -fvisibility=hidden   -Wall -Wextra -Wno-unused-parameter -Wpointer-arith -g -Wuninitialized -Wno-old-style-cast -o CMakeFiles/wasm.dir/src/config.cc.o -c /Users/steventang/Projects/WebAssembly-obfuscator/src/config.cc",
+  "file": "/Users/steventang/Projects/WebAssembly-obfuscator/src/config.cc"
+},
+{
+  "directory": "/Users/steventang/Projects/WebAssembly-obfuscator/build",
+  "command": "/Library/Developer/CommandLineTools/usr/bin/c++  -DWASM_API_EXTERN=\"__attribute__((visibility(\\\"default\\\")))\" -D__STDC_FORMAT_MACROS=1 -D__STDC_LIMIT_MACROS=1 -Dwasm_EXPORTS -I/Users/steventang/Projects/WebAssembly-obfuscator -I/Users/steventang/Projects/WebAssembly-obfuscator/build -I/Users/steventang/Projects/WebAssembly-obfuscator/third_party/wasm-c-api/include   -std=c++11 -Wold-style-cast -fno-exceptions -isysroot /Library/Developer/CommandLineTools/SDKs/MacOSX10.15.sdk -fPIC -fvisibility=hidden   -Wall -Wextra -Wno-unused-parameter -Wpointer-arith -g -Wuninitialized -Wno-old-style-cast -o CMakeFiles/wasm.dir/src/decompiler.cc.o -c /Users/steventang/Projects/WebAssembly-obfuscator/src/decompiler.cc",
+  "file": "/Users/steventang/Projects/WebAssembly-obfuscator/src/decompiler.cc"
+},
+{
+  "directory": "/Users/steventang/Projects/WebAssembly-obfuscator/build",
+  "command": "/Library/Developer/CommandLineTools/usr/bin/c++  -DWASM_API_EXTERN=\"__attribute__((visibility(\\\"default\\\")))\" -D__STDC_FORMAT_MACROS=1 -D__STDC_LIMIT_MACROS=1 -Dwasm_EXPORTS -I/Users/steventang/Projects/WebAssembly-obfuscator -I/Users/steventang/Projects/WebAssembly-obfuscator/build -I/Users/steventang/Projects/WebAssembly-obfuscator/third_party/wasm-c-api/include   -std=c++11 -Wold-style-cast -fno-exceptions -isysroot /Library/Developer/CommandLineTools/SDKs/MacOSX10.15.sdk -fPIC -fvisibility=hidden   -Wall -Wextra -Wno-unused-parameter -Wpointer-arith -g -Wuninitialized -Wno-old-style-cast -o CMakeFiles/wasm.dir/src/error-formatter.cc.o -c /Users/steventang/Projects/WebAssembly-obfuscator/src/error-formatter.cc",
+  "file": "/Users/steventang/Projects/WebAssembly-obfuscator/src/error-formatter.cc"
+},
+{
+  "directory": "/Users/steventang/Projects/WebAssembly-obfuscator/build",
+  "command": "/Library/Developer/CommandLineTools/usr/bin/c++  -DWASM_API_EXTERN=\"__attribute__((visibility(\\\"default\\\")))\" -D__STDC_FORMAT_MACROS=1 -D__STDC_LIMIT_MACROS=1 -Dwasm_EXPORTS -I/Users/steventang/Projects/WebAssembly-obfuscator -I/Users/steventang/Projects/WebAssembly-obfuscator/build -I/Users/steventang/Projects/WebAssembly-obfuscator/third_party/wasm-c-api/include   -std=c++11 -Wold-style-cast -fno-exceptions -isysroot /Library/Developer/CommandLineTools/SDKs/MacOSX10.15.sdk -fPIC -fvisibility=hidden   -Wall -Wextra -Wno-unused-parameter -Wpointer-arith -g -Wuninitialized -Wno-old-style-cast -o CMakeFiles/wasm.dir/src/expr-visitor.cc.o -c /Users/steventang/Projects/WebAssembly-obfuscator/src/expr-visitor.cc",
+  "file": "/Users/steventang/Projects/WebAssembly-obfuscator/src/expr-visitor.cc"
+},
+{
+  "directory": "/Users/steventang/Projects/WebAssembly-obfuscator/build",
+  "command": "/Library/Developer/CommandLineTools/usr/bin/c++  -DWASM_API_EXTERN=\"__attribute__((visibility(\\\"default\\\")))\" -D__STDC_FORMAT_MACROS=1 -D__STDC_LIMIT_MACROS=1 -Dwasm_EXPORTS -I/Users/steventang/Projects/WebAssembly-obfuscator -I/Users/steventang/Projects/WebAssembly-obfuscator/build -I/Users/steventang/Projects/WebAssembly-obfuscator/third_party/wasm-c-api/include   -std=c++11 -Wold-style-cast -fno-exceptions -isysroot /Library/Developer/CommandLineTools/SDKs/MacOSX10.15.sdk -fPIC -fvisibility=hidden   -Wall -Wextra -Wno-unused-parameter -Wpointer-arith -g -Wuninitialized -Wno-old-style-cast -o CMakeFiles/wasm.dir/src/feature.cc.o -c /Users/steventang/Projects/WebAssembly-obfuscator/src/feature.cc",
+  "file": "/Users/steventang/Projects/WebAssembly-obfuscator/src/feature.cc"
+},
+{
+  "directory": "/Users/steventang/Projects/WebAssembly-obfuscator/build",
+  "command": "/Library/Developer/CommandLineTools/usr/bin/c++  -DWASM_API_EXTERN=\"__attribute__((visibility(\\\"default\\\")))\" -D__STDC_FORMAT_MACROS=1 -D__STDC_LIMIT_MACROS=1 -Dwasm_EXPORTS -I/Users/steventang/Projects/WebAssembly-obfuscator -I/Users/steventang/Projects/WebAssembly-obfuscator/build -I/Users/steventang/Projects/WebAssembly-obfuscator/third_party/wasm-c-api/include   -std=c++11 -Wold-style-cast -fno-exceptions -isysroot /Library/Developer/CommandLineTools/SDKs/MacOSX10.15.sdk -fPIC -fvisibility=hidden   -Wall -Wextra -Wno-unused-parameter -Wpointer-arith -g -Wuninitialized -Wno-old-style-cast -o CMakeFiles/wasm.dir/src/filenames.cc.o -c /Users/steventang/Projects/WebAssembly-obfuscator/src/filenames.cc",
+  "file": "/Users/steventang/Projects/WebAssembly-obfuscator/src/filenames.cc"
+},
+{
+  "directory": "/Users/steventang/Projects/WebAssembly-obfuscator/build",
+  "command": "/Library/Developer/CommandLineTools/usr/bin/c++  -DWASM_API_EXTERN=\"__attribute__((visibility(\\\"default\\\")))\" -D__STDC_FORMAT_MACROS=1 -D__STDC_LIMIT_MACROS=1 -Dwasm_EXPORTS -I/Users/steventang/Projects/WebAssembly-obfuscator -I/Users/steventang/Projects/WebAssembly-obfuscator/build -I/Users/steventang/Projects/WebAssembly-obfuscator/third_party/wasm-c-api/include   -std=c++11 -Wold-style-cast -fno-exceptions -isysroot /Library/Developer/CommandLineTools/SDKs/MacOSX10.15.sdk -fPIC -fvisibility=hidden   -Wall -Wextra -Wno-unused-parameter -Wpointer-arith -g -Wuninitialized -Wno-old-style-cast -o CMakeFiles/wasm.dir/src/generate-names.cc.o -c /Users/steventang/Projects/WebAssembly-obfuscator/src/generate-names.cc",
+  "file": "/Users/steventang/Projects/WebAssembly-obfuscator/src/generate-names.cc"
+},
+{
+  "directory": "/Users/steventang/Projects/WebAssembly-obfuscator/build",
+  "command": "/Library/Developer/CommandLineTools/usr/bin/c++  -DWASM_API_EXTERN=\"__attribute__((visibility(\\\"default\\\")))\" -D__STDC_FORMAT_MACROS=1 -D__STDC_LIMIT_MACROS=1 -Dwasm_EXPORTS -I/Users/steventang/Projects/WebAssembly-obfuscator -I/Users/steventang/Projects/WebAssembly-obfuscator/build -I/Users/steventang/Projects/WebAssembly-obfuscator/third_party/wasm-c-api/include   -std=c++11 -Wold-style-cast -fno-exceptions -isysroot /Library/Developer/CommandLineTools/SDKs/MacOSX10.15.sdk -fPIC -fvisibility=hidden   -Wall -Wextra -Wno-unused-parameter -Wpointer-arith -g -Wuninitialized -Wno-old-style-cast -o CMakeFiles/wasm.dir/src/hash-util.cc.o -c /Users/steventang/Projects/WebAssembly-obfuscator/src/hash-util.cc",
+  "file": "/Users/steventang/Projects/WebAssembly-obfuscator/src/hash-util.cc"
+},
+{
+  "directory": "/Users/steventang/Projects/WebAssembly-obfuscator/build",
+  "command": "/Library/Developer/CommandLineTools/usr/bin/c++  -DWASM_API_EXTERN=\"__attribute__((visibility(\\\"default\\\")))\" -D__STDC_FORMAT_MACROS=1 -D__STDC_LIMIT_MACROS=1 -Dwasm_EXPORTS -I/Users/steventang/Projects/WebAssembly-obfuscator -I/Users/steventang/Projects/WebAssembly-obfuscator/build -I/Users/steventang/Projects/WebAssembly-obfuscator/third_party/wasm-c-api/include   -std=c++11 -Wold-style-cast -fno-exceptions -isysroot /Library/Developer/CommandLineTools/SDKs/MacOSX10.15.sdk -fPIC -fvisibility=hidden   -Wall -Wextra -Wno-unused-parameter -Wpointer-arith -g -Wuninitialized -Wno-old-style-cast -o CMakeFiles/wasm.dir/src/ir.cc.o -c /Users/steventang/Projects/WebAssembly-obfuscator/src/ir.cc",
+  "file": "/Users/steventang/Projects/WebAssembly-obfuscator/src/ir.cc"
+},
+{
+  "directory": "/Users/steventang/Projects/WebAssembly-obfuscator/build",
+  "command": "/Library/Developer/CommandLineTools/usr/bin/c++  -DWASM_API_EXTERN=\"__attribute__((visibility(\\\"default\\\")))\" -D__STDC_FORMAT_MACROS=1 -D__STDC_LIMIT_MACROS=1 -Dwasm_EXPORTS -I/Users/steventang/Projects/WebAssembly-obfuscator -I/Users/steventang/Projects/WebAssembly-obfuscator/build -I/Users/steventang/Projects/WebAssembly-obfuscator/third_party/wasm-c-api/include   -std=c++11 -Wold-style-cast -fno-exceptions -isysroot /Library/Developer/CommandLineTools/SDKs/MacOSX10.15.sdk -fPIC -fvisibility=hidden   -Wall -Wextra -Wno-unused-parameter -Wpointer-arith -g -Wuninitialized -Wno-old-style-cast -o CMakeFiles/wasm.dir/src/ir-util.cc.o -c /Users/steventang/Projects/WebAssembly-obfuscator/src/ir-util.cc",
+  "file": "/Users/steventang/Projects/WebAssembly-obfuscator/src/ir-util.cc"
+},
+{
+  "directory": "/Users/steventang/Projects/WebAssembly-obfuscator/build",
+  "command": "/Library/Developer/CommandLineTools/usr/bin/c++  -DWASM_API_EXTERN=\"__attribute__((visibility(\\\"default\\\")))\" -D__STDC_FORMAT_MACROS=1 -D__STDC_LIMIT_MACROS=1 -Dwasm_EXPORTS -I/Users/steventang/Projects/WebAssembly-obfuscator -I/Users/steventang/Projects/WebAssembly-obfuscator/build -I/Users/steventang/Projects/WebAssembly-obfuscator/third_party/wasm-c-api/include   -std=c++11 -Wold-style-cast -fno-exceptions -isysroot /Library/Developer/CommandLineTools/SDKs/MacOSX10.15.sdk -fPIC -fvisibility=hidden   -Wall -Wextra -Wno-unused-parameter -Wpointer-arith -g -Wuninitialized -Wno-old-style-cast -o CMakeFiles/wasm.dir/src/leb128.cc.o -c /Users/steventang/Projects/WebAssembly-obfuscator/src/leb128.cc",
+  "file": "/Users/steventang/Projects/WebAssembly-obfuscator/src/leb128.cc"
+},
+{
+  "directory": "/Users/steventang/Projects/WebAssembly-obfuscator/build",
+  "command": "/Library/Developer/CommandLineTools/usr/bin/c++  -DWASM_API_EXTERN=\"__attribute__((visibility(\\\"default\\\")))\" -D__STDC_FORMAT_MACROS=1 -D__STDC_LIMIT_MACROS=1 -Dwasm_EXPORTS -I/Users/steventang/Projects/WebAssembly-obfuscator -I/Users/steventang/Projects/WebAssembly-obfuscator/build -I/Users/steventang/Projects/WebAssembly-obfuscator/third_party/wasm-c-api/include   -std=c++11 -Wold-style-cast -fno-exceptions -isysroot /Library/Developer/CommandLineTools/SDKs/MacOSX10.15.sdk -fPIC -fvisibility=hidden   -Wall -Wextra -Wno-unused-parameter -Wpointer-arith -g -Wuninitialized -Wno-old-style-cast -o CMakeFiles/wasm.dir/src/lexer-source.cc.o -c /Users/steventang/Projects/WebAssembly-obfuscator/src/lexer-source.cc",
+  "file": "/Users/steventang/Projects/WebAssembly-obfuscator/src/lexer-source.cc"
+},
+{
+  "directory": "/Users/steventang/Projects/WebAssembly-obfuscator/build",
+  "command": "/Library/Developer/CommandLineTools/usr/bin/c++  -DWASM_API_EXTERN=\"__attribute__((visibility(\\\"default\\\")))\" -D__STDC_FORMAT_MACROS=1 -D__STDC_LIMIT_MACROS=1 -Dwasm_EXPORTS -I/Users/steventang/Projects/WebAssembly-obfuscator -I/Users/steventang/Projects/WebAssembly-obfuscator/build -I/Users/steventang/Projects/WebAssembly-obfuscator/third_party/wasm-c-api/include   -std=c++11 -Wold-style-cast -fno-exceptions -isysroot /Library/Developer/CommandLineTools/SDKs/MacOSX10.15.sdk -fPIC -fvisibility=hidden   -Wall -Wextra -Wno-unused-parameter -Wpointer-arith -g -Wuninitialized -Wno-old-style-cast -o CMakeFiles/wasm.dir/src/lexer-source-line-finder.cc.o -c /Users/steventang/Projects/WebAssembly-obfuscator/src/lexer-source-line-finder.cc",
+  "file": "/Users/steventang/Projects/WebAssembly-obfuscator/src/lexer-source-line-finder.cc"
+},
+{
+  "directory": "/Users/steventang/Projects/WebAssembly-obfuscator/build",
+  "command": "/Library/Developer/CommandLineTools/usr/bin/c++  -DWASM_API_EXTERN=\"__attribute__((visibility(\\\"default\\\")))\" -D__STDC_FORMAT_MACROS=1 -D__STDC_LIMIT_MACROS=1 -Dwasm_EXPORTS -I/Users/steventang/Projects/WebAssembly-obfuscator -I/Users/steventang/Projects/WebAssembly-obfuscator/build -I/Users/steventang/Projects/WebAssembly-obfuscator/third_party/wasm-c-api/include   -std=c++11 -Wold-style-cast -fno-exceptions -isysroot /Library/Developer/CommandLineTools/SDKs/MacOSX10.15.sdk -fPIC -fvisibility=hidden   -Wall -Wextra -Wno-unused-parameter -Wpointer-arith -g -Wuninitialized -Wno-old-style-cast -o CMakeFiles/wasm.dir/src/literal.cc.o -c /Users/steventang/Projects/WebAssembly-obfuscator/src/literal.cc",
+  "file": "/Users/steventang/Projects/WebAssembly-obfuscator/src/literal.cc"
+},
+{
+  "directory": "/Users/steventang/Projects/WebAssembly-obfuscator/build",
+  "command": "/Library/Developer/CommandLineTools/usr/bin/c++  -DWASM_API_EXTERN=\"__attribute__((visibility(\\\"default\\\")))\" -D__STDC_FORMAT_MACROS=1 -D__STDC_LIMIT_MACROS=1 -Dwasm_EXPORTS -I/Users/steventang/Projects/WebAssembly-obfuscator -I/Users/steventang/Projects/WebAssembly-obfuscator/build -I/Users/steventang/Projects/WebAssembly-obfuscator/third_party/wasm-c-api/include   -std=c++11 -Wold-style-cast -fno-exceptions -isysroot /Library/Developer/CommandLineTools/SDKs/MacOSX10.15.sdk -fPIC -fvisibility=hidden   -Wall -Wextra -Wno-unused-parameter -Wpointer-arith -g -Wuninitialized -Wno-old-style-cast -o CMakeFiles/wasm.dir/src/opcode.cc.o -c /Users/steventang/Projects/WebAssembly-obfuscator/src/opcode.cc",
+  "file": "/Users/steventang/Projects/WebAssembly-obfuscator/src/opcode.cc"
+},
+{
+  "directory": "/Users/steventang/Projects/WebAssembly-obfuscator/build",
+  "command": "/Library/Developer/CommandLineTools/usr/bin/cc -DWASM_API_EXTERN=\"__attribute__((visibility(\\\"default\\\")))\" -D__STDC_FORMAT_MACROS=1 -D__STDC_LIMIT_MACROS=1 -Dwasm_EXPORTS -I/Users/steventang/Projects/WebAssembly-obfuscator -I/Users/steventang/Projects/WebAssembly-obfuscator/build -I/Users/steventang/Projects/WebAssembly-obfuscator/third_party/wasm-c-api/include   -isysroot /Library/Developer/CommandLineTools/SDKs/MacOSX10.15.sdk -fPIC   -Wall -Wextra -Wno-unused-parameter -Wpointer-arith -g -Wuninitialized -Wno-old-style-cast -o CMakeFiles/wasm.dir/src/opcode-code-table.c.o   -c /Users/steventang/Projects/WebAssembly-obfuscator/src/opcode-code-table.c",
+  "file": "/Users/steventang/Projects/WebAssembly-obfuscator/src/opcode-code-table.c"
+},
+{
+  "directory": "/Users/steventang/Projects/WebAssembly-obfuscator/build",
+  "command": "/Library/Developer/CommandLineTools/usr/bin/c++  -DWASM_API_EXTERN=\"__attribute__((visibility(\\\"default\\\")))\" -D__STDC_FORMAT_MACROS=1 -D__STDC_LIMIT_MACROS=1 -Dwasm_EXPORTS -I/Users/steventang/Projects/WebAssembly-obfuscator -I/Users/steventang/Projects/WebAssembly-obfuscator/build -I/Users/steventang/Projects/WebAssembly-obfuscator/third_party/wasm-c-api/include   -std=c++11 -Wold-style-cast -fno-exceptions -isysroot /Library/Developer/CommandLineTools/SDKs/MacOSX10.15.sdk -fPIC -fvisibility=hidden   -Wall -Wextra -Wno-unused-parameter -Wpointer-arith -g -Wuninitialized -Wno-old-style-cast -o CMakeFiles/wasm.dir/src/option-parser.cc.o -c /Users/steventang/Projects/WebAssembly-obfuscator/src/option-parser.cc",
+  "file": "/Users/steventang/Projects/WebAssembly-obfuscator/src/option-parser.cc"
+},
+{
+  "directory": "/Users/steventang/Projects/WebAssembly-obfuscator/build",
+  "command": "/Library/Developer/CommandLineTools/usr/bin/c++  -DWASM_API_EXTERN=\"__attribute__((visibility(\\\"default\\\")))\" -D__STDC_FORMAT_MACROS=1 -D__STDC_LIMIT_MACROS=1 -Dwasm_EXPORTS -I/Users/steventang/Projects/WebAssembly-obfuscator -I/Users/steventang/Projects/WebAssembly-obfuscator/build -I/Users/steventang/Projects/WebAssembly-obfuscator/third_party/wasm-c-api/include   -std=c++11 -Wold-style-cast -fno-exceptions -isysroot /Library/Developer/CommandLineTools/SDKs/MacOSX10.15.sdk -fPIC -fvisibility=hidden   -Wall -Wextra -Wno-unused-parameter -Wpointer-arith -g -Wuninitialized -Wno-old-style-cast -o CMakeFiles/wasm.dir/src/resolve-names.cc.o -c /Users/steventang/Projects/WebAssembly-obfuscator/src/resolve-names.cc",
+  "file": "/Users/steventang/Projects/WebAssembly-obfuscator/src/resolve-names.cc"
+},
+{
+  "directory": "/Users/steventang/Projects/WebAssembly-obfuscator/build",
+  "command": "/Library/Developer/CommandLineTools/usr/bin/c++  -DWASM_API_EXTERN=\"__attribute__((visibility(\\\"default\\\")))\" -D__STDC_FORMAT_MACROS=1 -D__STDC_LIMIT_MACROS=1 -Dwasm_EXPORTS -I/Users/steventang/Projects/WebAssembly-obfuscator -I/Users/steventang/Projects/WebAssembly-obfuscator/build -I/Users/steventang/Projects/WebAssembly-obfuscator/third_party/wasm-c-api/include   -std=c++11 -Wold-style-cast -fno-exceptions -isysroot /Library/Developer/CommandLineTools/SDKs/MacOSX10.15.sdk -fPIC -fvisibility=hidden   -Wall -Wextra -Wno-unused-parameter -Wpointer-arith -g -Wuninitialized -Wno-old-style-cast -o CMakeFiles/wasm.dir/src/shared-validator.cc.o -c /Users/steventang/Projects/WebAssembly-obfuscator/src/shared-validator.cc",
+  "file": "/Users/steventang/Projects/WebAssembly-obfuscator/src/shared-validator.cc"
+},
+{
+  "directory": "/Users/steventang/Projects/WebAssembly-obfuscator/build",
+  "command": "/Library/Developer/CommandLineTools/usr/bin/c++  -DWASM_API_EXTERN=\"__attribute__((visibility(\\\"default\\\")))\" -D__STDC_FORMAT_MACROS=1 -D__STDC_LIMIT_MACROS=1 -Dwasm_EXPORTS -I/Users/steventang/Projects/WebAssembly-obfuscator -I/Users/steventang/Projects/WebAssembly-obfuscator/build -I/Users/steventang/Projects/WebAssembly-obfuscator/third_party/wasm-c-api/include   -std=c++11 -Wold-style-cast -fno-exceptions -isysroot /Library/Developer/CommandLineTools/SDKs/MacOSX10.15.sdk -fPIC -fvisibility=hidden   -Wall -Wextra -Wno-unused-parameter -Wpointer-arith -g -Wuninitialized -Wno-old-style-cast -o CMakeFiles/wasm.dir/src/stream.cc.o -c /Users/steventang/Projects/WebAssembly-obfuscator/src/stream.cc",
+  "file": "/Users/steventang/Projects/WebAssembly-obfuscator/src/stream.cc"
+},
+{
+  "directory": "/Users/steventang/Projects/WebAssembly-obfuscator/build",
+  "command": "/Library/Developer/CommandLineTools/usr/bin/c++  -DWASM_API_EXTERN=\"__attribute__((visibility(\\\"default\\\")))\" -D__STDC_FORMAT_MACROS=1 -D__STDC_LIMIT_MACROS=1 -Dwasm_EXPORTS -I/Users/steventang/Projects/WebAssembly-obfuscator -I/Users/steventang/Projects/WebAssembly-obfuscator/build -I/Users/steventang/Projects/WebAssembly-obfuscator/third_party/wasm-c-api/include   -std=c++11 -Wold-style-cast -fno-exceptions -isysroot /Library/Developer/CommandLineTools/SDKs/MacOSX10.15.sdk -fPIC -fvisibility=hidden   -Wall -Wextra -Wno-unused-parameter -Wpointer-arith -g -Wuninitialized -Wno-old-style-cast -o CMakeFiles/wasm.dir/src/string-view.cc.o -c /Users/steventang/Projects/WebAssembly-obfuscator/src/string-view.cc",
+  "file": "/Users/steventang/Projects/WebAssembly-obfuscator/src/string-view.cc"
+},
+{
+  "directory": "/Users/steventang/Projects/WebAssembly-obfuscator/build",
+  "command": "/Library/Developer/CommandLineTools/usr/bin/c++  -DWASM_API_EXTERN=\"__attribute__((visibility(\\\"default\\\")))\" -D__STDC_FORMAT_MACROS=1 -D__STDC_LIMIT_MACROS=1 -Dwasm_EXPORTS -I/Users/steventang/Projects/WebAssembly-obfuscator -I/Users/steventang/Projects/WebAssembly-obfuscator/build -I/Users/steventang/Projects/WebAssembly-obfuscator/third_party/wasm-c-api/include   -std=c++11 -Wold-style-cast -fno-exceptions -isysroot /Library/Developer/CommandLineTools/SDKs/MacOSX10.15.sdk -fPIC -fvisibility=hidden   -Wall -Wextra -Wno-unused-parameter -Wpointer-arith -g -Wuninitialized -Wno-old-style-cast -o CMakeFiles/wasm.dir/src/token.cc.o -c /Users/steventang/Projects/WebAssembly-obfuscator/src/token.cc",
+  "file": "/Users/steventang/Projects/WebAssembly-obfuscator/src/token.cc"
+},
+{
+  "directory": "/Users/steventang/Projects/WebAssembly-obfuscator/build",
+  "command": "/Library/Developer/CommandLineTools/usr/bin/c++  -DWASM_API_EXTERN=\"__attribute__((visibility(\\\"default\\\")))\" -D__STDC_FORMAT_MACROS=1 -D__STDC_LIMIT_MACROS=1 -Dwasm_EXPORTS -I/Users/steventang/Projects/WebAssembly-obfuscator -I/Users/steventang/Projects/WebAssembly-obfuscator/build -I/Users/steventang/Projects/WebAssembly-obfuscator/third_party/wasm-c-api/include   -std=c++11 -Wold-style-cast -fno-exceptions -isysroot /Library/Developer/CommandLineTools/SDKs/MacOSX10.15.sdk -fPIC -fvisibility=hidden   -Wall -Wextra -Wno-unused-parameter -Wpointer-arith -g -Wuninitialized -Wno-old-style-cast -o CMakeFiles/wasm.dir/src/tracing.cc.o -c /Users/steventang/Projects/WebAssembly-obfuscator/src/tracing.cc",
+  "file": "/Users/steventang/Projects/WebAssembly-obfuscator/src/tracing.cc"
+},
+{
+  "directory": "/Users/steventang/Projects/WebAssembly-obfuscator/build",
+  "command": "/Library/Developer/CommandLineTools/usr/bin/c++  -DWASM_API_EXTERN=\"__attribute__((visibility(\\\"default\\\")))\" -D__STDC_FORMAT_MACROS=1 -D__STDC_LIMIT_MACROS=1 -Dwasm_EXPORTS -I/Users/steventang/Projects/WebAssembly-obfuscator -I/Users/steventang/Projects/WebAssembly-obfuscator/build -I/Users/steventang/Projects/WebAssembly-obfuscator/third_party/wasm-c-api/include   -std=c++11 -Wold-style-cast -fno-exceptions -isysroot /Library/Developer/CommandLineTools/SDKs/MacOSX10.15.sdk -fPIC -fvisibility=hidden   -Wall -Wextra -Wno-unused-parameter -Wpointer-arith -g -Wuninitialized -Wno-old-style-cast -o CMakeFiles/wasm.dir/src/type-checker.cc.o -c /Users/steventang/Projects/WebAssembly-obfuscator/src/type-checker.cc",
+  "file": "/Users/steventang/Projects/WebAssembly-obfuscator/src/type-checker.cc"
+},
+{
+  "directory": "/Users/steventang/Projects/WebAssembly-obfuscator/build",
+  "command": "/Library/Developer/CommandLineTools/usr/bin/c++  -DWASM_API_EXTERN=\"__attribute__((visibility(\\\"default\\\")))\" -D__STDC_FORMAT_MACROS=1 -D__STDC_LIMIT_MACROS=1 -Dwasm_EXPORTS -I/Users/steventang/Projects/WebAssembly-obfuscator -I/Users/steventang/Projects/WebAssembly-obfuscator/build -I/Users/steventang/Projects/WebAssembly-obfuscator/third_party/wasm-c-api/include   -std=c++11 -Wold-style-cast -fno-exceptions -isysroot /Library/Developer/CommandLineTools/SDKs/MacOSX10.15.sdk -fPIC -fvisibility=hidden   -Wall -Wextra -Wno-unused-parameter -Wpointer-arith -g -Wuninitialized -Wno-old-style-cast -o CMakeFiles/wasm.dir/src/utf8.cc.o -c /Users/steventang/Projects/WebAssembly-obfuscator/src/utf8.cc",
+  "file": "/Users/steventang/Projects/WebAssembly-obfuscator/src/utf8.cc"
+},
+{
+  "directory": "/Users/steventang/Projects/WebAssembly-obfuscator/build",
+  "command": "/Library/Developer/CommandLineTools/usr/bin/c++  -DWASM_API_EXTERN=\"__attribute__((visibility(\\\"default\\\")))\" -D__STDC_FORMAT_MACROS=1 -D__STDC_LIMIT_MACROS=1 -Dwasm_EXPORTS -I/Users/steventang/Projects/WebAssembly-obfuscator -I/Users/steventang/Projects/WebAssembly-obfuscator/build -I/Users/steventang/Projects/WebAssembly-obfuscator/third_party/wasm-c-api/include   -std=c++11 -Wold-style-cast -fno-exceptions -isysroot /Library/Developer/CommandLineTools/SDKs/MacOSX10.15.sdk -fPIC -fvisibility=hidden   -Wall -Wextra -Wno-unused-parameter -Wpointer-arith -g -Wuninitialized -Wno-old-style-cast -o CMakeFiles/wasm.dir/src/validator.cc.o -c /Users/steventang/Projects/WebAssembly-obfuscator/src/validator.cc",
+  "file": "/Users/steventang/Projects/WebAssembly-obfuscator/src/validator.cc"
+},
+{
+  "directory": "/Users/steventang/Projects/WebAssembly-obfuscator/build",
+  "command": "/Library/Developer/CommandLineTools/usr/bin/c++  -DWASM_API_EXTERN=\"__attribute__((visibility(\\\"default\\\")))\" -D__STDC_FORMAT_MACROS=1 -D__STDC_LIMIT_MACROS=1 -Dwasm_EXPORTS -I/Users/steventang/Projects/WebAssembly-obfuscator -I/Users/steventang/Projects/WebAssembly-obfuscator/build -I/Users/steventang/Projects/WebAssembly-obfuscator/third_party/wasm-c-api/include   -std=c++11 -Wold-style-cast -fno-exceptions -isysroot /Library/Developer/CommandLineTools/SDKs/MacOSX10.15.sdk -fPIC -fvisibility=hidden   -Wall -Wextra -Wno-unused-parameter -Wpointer-arith -g -Wuninitialized -Wno-old-style-cast -o CMakeFiles/wasm.dir/src/wast-lexer.cc.o -c /Users/steventang/Projects/WebAssembly-obfuscator/src/wast-lexer.cc",
+  "file": "/Users/steventang/Projects/WebAssembly-obfuscator/src/wast-lexer.cc"
+},
+{
+  "directory": "/Users/steventang/Projects/WebAssembly-obfuscator/build",
+  "command": "/Library/Developer/CommandLineTools/usr/bin/c++  -DWASM_API_EXTERN=\"__attribute__((visibility(\\\"default\\\")))\" -D__STDC_FORMAT_MACROS=1 -D__STDC_LIMIT_MACROS=1 -Dwasm_EXPORTS -I/Users/steventang/Projects/WebAssembly-obfuscator -I/Users/steventang/Projects/WebAssembly-obfuscator/build -I/Users/steventang/Projects/WebAssembly-obfuscator/third_party/wasm-c-api/include   -std=c++11 -Wold-style-cast -fno-exceptions -isysroot /Library/Developer/CommandLineTools/SDKs/MacOSX10.15.sdk -fPIC -fvisibility=hidden   -Wall -Wextra -Wno-unused-parameter -Wpointer-arith -g -Wuninitialized -Wno-old-style-cast -o CMakeFiles/wasm.dir/src/wast-parser.cc.o -c /Users/steventang/Projects/WebAssembly-obfuscator/src/wast-parser.cc",
+  "file": "/Users/steventang/Projects/WebAssembly-obfuscator/src/wast-parser.cc"
+},
+{
+  "directory": "/Users/steventang/Projects/WebAssembly-obfuscator/build",
+  "command": "/Library/Developer/CommandLineTools/usr/bin/c++  -DWASM_API_EXTERN=\"__attribute__((visibility(\\\"default\\\")))\" -D__STDC_FORMAT_MACROS=1 -D__STDC_LIMIT_MACROS=1 -Dwasm_EXPORTS -I/Users/steventang/Projects/WebAssembly-obfuscator -I/Users/steventang/Projects/WebAssembly-obfuscator/build -I/Users/steventang/Projects/WebAssembly-obfuscator/third_party/wasm-c-api/include   -std=c++11 -Wold-style-cast -fno-exceptions -isysroot /Library/Developer/CommandLineTools/SDKs/MacOSX10.15.sdk -fPIC -fvisibility=hidden   -Wall -Wextra -Wno-unused-parameter -Wpointer-arith -g -Wuninitialized -Wno-old-style-cast -o CMakeFiles/wasm.dir/src/wat-writer.cc.o -c /Users/steventang/Projects/WebAssembly-obfuscator/src/wat-writer.cc",
+  "file": "/Users/steventang/Projects/WebAssembly-obfuscator/src/wat-writer.cc"
+},
+{
+  "directory": "/Users/steventang/Projects/WebAssembly-obfuscator/build",
+  "command": "/Library/Developer/CommandLineTools/usr/bin/c++  -DWASM_API_EXTERN=\"__attribute__((visibility(\\\"default\\\")))\" -D__STDC_FORMAT_MACROS=1 -D__STDC_LIMIT_MACROS=1 -Dwasm_EXPORTS -I/Users/steventang/Projects/WebAssembly-obfuscator -I/Users/steventang/Projects/WebAssembly-obfuscator/build -I/Users/steventang/Projects/WebAssembly-obfuscator/third_party/wasm-c-api/include   -std=c++11 -Wold-style-cast -fno-exceptions -isysroot /Library/Developer/CommandLineTools/SDKs/MacOSX10.15.sdk -fPIC -fvisibility=hidden   -Wall -Wextra -Wno-unused-parameter -Wpointer-arith -g -Wuninitialized -Wno-old-style-cast -o CMakeFiles/wasm.dir/src/obfuscator.cc.o -c /Users/steventang/Projects/WebAssembly-obfuscator/src/obfuscator.cc",
+  "file": "/Users/steventang/Projects/WebAssembly-obfuscator/src/obfuscator.cc"
+},
+{
+  "directory": "/Users/steventang/Projects/WebAssembly-obfuscator/build",
+  "command": "/Library/Developer/CommandLineTools/usr/bin/c++  -DWASM_API_EXTERN=\"__attribute__((visibility(\\\"default\\\")))\" -D__STDC_FORMAT_MACROS=1 -D__STDC_LIMIT_MACROS=1 -Dwasm_EXPORTS -I/Users/steventang/Projects/WebAssembly-obfuscator -I/Users/steventang/Projects/WebAssembly-obfuscator/build -I/Users/steventang/Projects/WebAssembly-obfuscator/third_party/wasm-c-api/include   -std=c++11 -Wold-style-cast -fno-exceptions -isysroot /Library/Developer/CommandLineTools/SDKs/MacOSX10.15.sdk -fPIC -fvisibility=hidden   -Wall -Wextra -Wno-unused-parameter -Wpointer-arith -g -Wuninitialized -Wno-old-style-cast -o CMakeFiles/wasm.dir/src/interp/binary-reader-interp.cc.o -c /Users/steventang/Projects/WebAssembly-obfuscator/src/interp/binary-reader-interp.cc",
+  "file": "/Users/steventang/Projects/WebAssembly-obfuscator/src/interp/binary-reader-interp.cc"
+},
+{
+  "directory": "/Users/steventang/Projects/WebAssembly-obfuscator/build",
+  "command": "/Library/Developer/CommandLineTools/usr/bin/c++  -DWASM_API_EXTERN=\"__attribute__((visibility(\\\"default\\\")))\" -D__STDC_FORMAT_MACROS=1 -D__STDC_LIMIT_MACROS=1 -Dwasm_EXPORTS -I/Users/steventang/Projects/WebAssembly-obfuscator -I/Users/steventang/Projects/WebAssembly-obfuscator/build -I/Users/steventang/Projects/WebAssembly-obfuscator/third_party/wasm-c-api/include   -std=c++11 -Wold-style-cast -fno-exceptions -isysroot /Library/Developer/CommandLineTools/SDKs/MacOSX10.15.sdk -fPIC -fvisibility=hidden   -Wall -Wextra -Wno-unused-parameter -Wpointer-arith -g -Wuninitialized -Wno-old-style-cast -o CMakeFiles/wasm.dir/src/interp/interp.cc.o -c /Users/steventang/Projects/WebAssembly-obfuscator/src/interp/interp.cc",
+  "file": "/Users/steventang/Projects/WebAssembly-obfuscator/src/interp/interp.cc"
+},
+{
+  "directory": "/Users/steventang/Projects/WebAssembly-obfuscator/build",
+  "command": "/Library/Developer/CommandLineTools/usr/bin/c++  -DWASM_API_EXTERN=\"__attribute__((visibility(\\\"default\\\")))\" -D__STDC_FORMAT_MACROS=1 -D__STDC_LIMIT_MACROS=1 -Dwasm_EXPORTS -I/Users/steventang/Projects/WebAssembly-obfuscator -I/Users/steventang/Projects/WebAssembly-obfuscator/build -I/Users/steventang/Projects/WebAssembly-obfuscator/third_party/wasm-c-api/include   -std=c++11 -Wold-style-cast -fno-exceptions -isysroot /Library/Developer/CommandLineTools/SDKs/MacOSX10.15.sdk -fPIC -fvisibility=hidden   -Wall -Wextra -Wno-unused-parameter -Wpointer-arith -g -Wuninitialized -Wno-old-style-cast -o CMakeFiles/wasm.dir/src/interp/interp-util.cc.o -c /Users/steventang/Projects/WebAssembly-obfuscator/src/interp/interp-util.cc",
+  "file": "/Users/steventang/Projects/WebAssembly-obfuscator/src/interp/interp-util.cc"
+},
+{
+  "directory": "/Users/steventang/Projects/WebAssembly-obfuscator/build",
+  "command": "/Library/Developer/CommandLineTools/usr/bin/c++  -DWASM_API_EXTERN=\"__attribute__((visibility(\\\"default\\\")))\" -D__STDC_FORMAT_MACROS=1 -D__STDC_LIMIT_MACROS=1 -Dwasm_EXPORTS -I/Users/steventang/Projects/WebAssembly-obfuscator -I/Users/steventang/Projects/WebAssembly-obfuscator/build -I/Users/steventang/Projects/WebAssembly-obfuscator/third_party/wasm-c-api/include   -std=c++11 -Wold-style-cast -fno-exceptions -isysroot /Library/Developer/CommandLineTools/SDKs/MacOSX10.15.sdk -fPIC -fvisibility=hidden   -Wall -Wextra -Wno-unused-parameter -Wpointer-arith -g -Wuninitialized -Wno-old-style-cast -o CMakeFiles/wasm.dir/src/interp/istream.cc.o -c /Users/steventang/Projects/WebAssembly-obfuscator/src/interp/istream.cc",
+  "file": "/Users/steventang/Projects/WebAssembly-obfuscator/src/interp/istream.cc"
+},
+{
+  "directory": "/Users/steventang/Projects/WebAssembly-obfuscator/build",
+  "command": "/Library/Developer/CommandLineTools/usr/bin/c++  -DWASM_API_EXTERN=\"__attribute__((visibility(\\\"default\\\")))\" -D__STDC_FORMAT_MACROS=1 -D__STDC_LIMIT_MACROS=1 -Dwasm_EXPORTS -I/Users/steventang/Projects/WebAssembly-obfuscator -I/Users/steventang/Projects/WebAssembly-obfuscator/build -I/Users/steventang/Projects/WebAssembly-obfuscator/third_party/wasm-c-api/include   -std=c++11 -Wold-style-cast -fno-exceptions -isysroot /Library/Developer/CommandLineTools/SDKs/MacOSX10.15.sdk -fPIC -fvisibility=hidden   -Wall -Wextra -Wno-unused-parameter -Wpointer-arith -g -Wuninitialized -Wno-old-style-cast -o CMakeFiles/wasm.dir/src/interp/interp-wasm-c-api.cc.o -c /Users/steventang/Projects/WebAssembly-obfuscator/src/interp/interp-wasm-c-api.cc",
+  "file": "/Users/steventang/Projects/WebAssembly-obfuscator/src/interp/interp-wasm-c-api.cc"
+},
+{
+  "directory": "/Users/steventang/Projects/WebAssembly-obfuscator/build",
+  "command": "/Library/Developer/CommandLineTools/usr/bin/c++  -D__STDC_FORMAT_MACROS=1 -D__STDC_LIMIT_MACROS=1 -I/Users/steventang/Projects/WebAssembly-obfuscator -I/Users/steventang/Projects/WebAssembly-obfuscator/build   -std=c++11 -Wold-style-cast -fno-exceptions -isysroot /Library/Developer/CommandLineTools/SDKs/MacOSX10.15.sdk   -Wall -Wextra -Wno-unused-parameter -Wpointer-arith -g -Wuninitialized -std=c++11 -o CMakeFiles/wasm2wat.dir/src/tools/wasm2wat.cc.o -c /Users/steventang/Projects/WebAssembly-obfuscator/src/tools/wasm2wat.cc",
+  "file": "/Users/steventang/Projects/WebAssembly-obfuscator/src/tools/wasm2wat.cc"
+},
+{
+  "directory": "/Users/steventang/Projects/WebAssembly-obfuscator/build",
+  "command": "/Library/Developer/CommandLineTools/usr/bin/c++  -D__STDC_FORMAT_MACROS=1 -D__STDC_LIMIT_MACROS=1 -I/Users/steventang/Projects/WebAssembly-obfuscator -I/Users/steventang/Projects/WebAssembly-obfuscator/build   -std=c++11 -Wold-style-cast -fno-exceptions -isysroot /Library/Developer/CommandLineTools/SDKs/MacOSX10.15.sdk   -Wall -Wextra -Wno-unused-parameter -Wpointer-arith -g -Wuninitialized -std=c++11 -o CMakeFiles/wat-obfuscator.dir/src/tools/wat2wasm.cc.o -c /Users/steventang/Projects/WebAssembly-obfuscator/src/tools/wat2wasm.cc",
+  "file": "/Users/steventang/Projects/WebAssembly-obfuscator/src/tools/wat2wasm.cc"
+},
+{
+  "directory": "/Users/steventang/Projects/WebAssembly-obfuscator/build",
+  "command": "/Library/Developer/CommandLineTools/usr/bin/c++  -D__STDC_FORMAT_MACROS=1 -D__STDC_LIMIT_MACROS=1 -I/Users/steventang/Projects/WebAssembly-obfuscator -I/Users/steventang/Projects/WebAssembly-obfuscator/build   -std=c++11 -Wold-style-cast -fno-exceptions -isysroot /Library/Developer/CommandLineTools/SDKs/MacOSX10.15.sdk   -Wall -Wextra -Wno-unused-parameter -Wpointer-arith -g -Wuninitialized -o CMakeFiles/wabt.dir/src/apply-names.cc.o -c /Users/steventang/Projects/WebAssembly-obfuscator/src/apply-names.cc",
+  "file": "/Users/steventang/Projects/WebAssembly-obfuscator/src/apply-names.cc"
+},
+{
+  "directory": "/Users/steventang/Projects/WebAssembly-obfuscator/build",
+  "command": "/Library/Developer/CommandLineTools/usr/bin/c++  -D__STDC_FORMAT_MACROS=1 -D__STDC_LIMIT_MACROS=1 -I/Users/steventang/Projects/WebAssembly-obfuscator -I/Users/steventang/Projects/WebAssembly-obfuscator/build   -std=c++11 -Wold-style-cast -fno-exceptions -isysroot /Library/Developer/CommandLineTools/SDKs/MacOSX10.15.sdk   -Wall -Wextra -Wno-unused-parameter -Wpointer-arith -g -Wuninitialized -o CMakeFiles/wabt.dir/src/binary.cc.o -c /Users/steventang/Projects/WebAssembly-obfuscator/src/binary.cc",
+  "file": "/Users/steventang/Projects/WebAssembly-obfuscator/src/binary.cc"
+},
+{
+  "directory": "/Users/steventang/Projects/WebAssembly-obfuscator/build",
+  "command": "/Library/Developer/CommandLineTools/usr/bin/c++  -D__STDC_FORMAT_MACROS=1 -D__STDC_LIMIT_MACROS=1 -I/Users/steventang/Projects/WebAssembly-obfuscator -I/Users/steventang/Projects/WebAssembly-obfuscator/build   -std=c++11 -Wold-style-cast -fno-exceptions -isysroot /Library/Developer/CommandLineTools/SDKs/MacOSX10.15.sdk   -Wall -Wextra -Wno-unused-parameter -Wpointer-arith -g -Wuninitialized -o CMakeFiles/wabt.dir/src/binary-reader.cc.o -c /Users/steventang/Projects/WebAssembly-obfuscator/src/binary-reader.cc",
+  "file": "/Users/steventang/Projects/WebAssembly-obfuscator/src/binary-reader.cc"
+},
+{
+  "directory": "/Users/steventang/Projects/WebAssembly-obfuscator/build",
+  "command": "/Library/Developer/CommandLineTools/usr/bin/c++  -D__STDC_FORMAT_MACROS=1 -D__STDC_LIMIT_MACROS=1 -I/Users/steventang/Projects/WebAssembly-obfuscator -I/Users/steventang/Projects/WebAssembly-obfuscator/build   -std=c++11 -Wold-style-cast -fno-exceptions -isysroot /Library/Developer/CommandLineTools/SDKs/MacOSX10.15.sdk   -Wall -Wextra -Wno-unused-parameter -Wpointer-arith -g -Wuninitialized -o CMakeFiles/wabt.dir/src/binary-reader-ir.cc.o -c /Users/steventang/Projects/WebAssembly-obfuscator/src/binary-reader-ir.cc",
+  "file": "/Users/steventang/Projects/WebAssembly-obfuscator/src/binary-reader-ir.cc"
+},
+{
+  "directory": "/Users/steventang/Projects/WebAssembly-obfuscator/build",
+  "command": "/Library/Developer/CommandLineTools/usr/bin/c++  -D__STDC_FORMAT_MACROS=1 -D__STDC_LIMIT_MACROS=1 -I/Users/steventang/Projects/WebAssembly-obfuscator -I/Users/steventang/Projects/WebAssembly-obfuscator/build   -std=c++11 -Wold-style-cast -fno-exceptions -isysroot /Library/Developer/CommandLineTools/SDKs/MacOSX10.15.sdk   -Wall -Wextra -Wno-unused-parameter -Wpointer-arith -g -Wuninitialized -o CMakeFiles/wabt.dir/src/binary-reader-logging.cc.o -c /Users/steventang/Projects/WebAssembly-obfuscator/src/binary-reader-logging.cc",
+  "file": "/Users/steventang/Projects/WebAssembly-obfuscator/src/binary-reader-logging.cc"
+},
+{
+  "directory": "/Users/steventang/Projects/WebAssembly-obfuscator/build",
+  "command": "/Library/Developer/CommandLineTools/usr/bin/c++  -D__STDC_FORMAT_MACROS=1 -D__STDC_LIMIT_MACROS=1 -I/Users/steventang/Projects/WebAssembly-obfuscator -I/Users/steventang/Projects/WebAssembly-obfuscator/build   -std=c++11 -Wold-style-cast -fno-exceptions -isysroot /Library/Developer/CommandLineTools/SDKs/MacOSX10.15.sdk   -Wall -Wextra -Wno-unused-parameter -Wpointer-arith -g -Wuninitialized -o CMakeFiles/wabt.dir/src/binary-writer.cc.o -c /Users/steventang/Projects/WebAssembly-obfuscator/src/binary-writer.cc",
+  "file": "/Users/steventang/Projects/WebAssembly-obfuscator/src/binary-writer.cc"
+},
+{
+  "directory": "/Users/steventang/Projects/WebAssembly-obfuscator/build",
+  "command": "/Library/Developer/CommandLineTools/usr/bin/c++  -D__STDC_FORMAT_MACROS=1 -D__STDC_LIMIT_MACROS=1 -I/Users/steventang/Projects/WebAssembly-obfuscator -I/Users/steventang/Projects/WebAssembly-obfuscator/build   -std=c++11 -Wold-style-cast -fno-exceptions -isysroot /Library/Developer/CommandLineTools/SDKs/MacOSX10.15.sdk   -Wall -Wextra -Wno-unused-parameter -Wpointer-arith -g -Wuninitialized -o CMakeFiles/wabt.dir/src/binary-writer-spec.cc.o -c /Users/steventang/Projects/WebAssembly-obfuscator/src/binary-writer-spec.cc",
+  "file": "/Users/steventang/Projects/WebAssembly-obfuscator/src/binary-writer-spec.cc"
+},
+{
+  "directory": "/Users/steventang/Projects/WebAssembly-obfuscator/build",
+  "command": "/Library/Developer/CommandLineTools/usr/bin/c++  -D__STDC_FORMAT_MACROS=1 -D__STDC_LIMIT_MACROS=1 -I/Users/steventang/Projects/WebAssembly-obfuscator -I/Users/steventang/Projects/WebAssembly-obfuscator/build   -std=c++11 -Wold-style-cast -fno-exceptions -isysroot /Library/Developer/CommandLineTools/SDKs/MacOSX10.15.sdk   -Wall -Wextra -Wno-unused-parameter -Wpointer-arith -g -Wuninitialized -o CMakeFiles/wabt.dir/src/binding-hash.cc.o -c /Users/steventang/Projects/WebAssembly-obfuscator/src/binding-hash.cc",
+  "file": "/Users/steventang/Projects/WebAssembly-obfuscator/src/binding-hash.cc"
+},
+{
+  "directory": "/Users/steventang/Projects/WebAssembly-obfuscator/build",
+  "command": "/Library/Developer/CommandLineTools/usr/bin/c++  -D__STDC_FORMAT_MACROS=1 -D__STDC_LIMIT_MACROS=1 -I/Users/steventang/Projects/WebAssembly-obfuscator -I/Users/steventang/Projects/WebAssembly-obfuscator/build   -std=c++11 -Wold-style-cast -fno-exceptions -isysroot /Library/Developer/CommandLineTools/SDKs/MacOSX10.15.sdk   -Wall -Wextra -Wno-unused-parameter -Wpointer-arith -g -Wuninitialized -o CMakeFiles/wabt.dir/src/color.cc.o -c /Users/steventang/Projects/WebAssembly-obfuscator/src/color.cc",
+  "file": "/Users/steventang/Projects/WebAssembly-obfuscator/src/color.cc"
+},
+{
+  "directory": "/Users/steventang/Projects/WebAssembly-obfuscator/build",
+  "command": "/Library/Developer/CommandLineTools/usr/bin/c++  -D__STDC_FORMAT_MACROS=1 -D__STDC_LIMIT_MACROS=1 -I/Users/steventang/Projects/WebAssembly-obfuscator -I/Users/steventang/Projects/WebAssembly-obfuscator/build   -std=c++11 -Wold-style-cast -fno-exceptions -isysroot /Library/Developer/CommandLineTools/SDKs/MacOSX10.15.sdk   -Wall -Wextra -Wno-unused-parameter -Wpointer-arith -g -Wuninitialized -o CMakeFiles/wabt.dir/src/common.cc.o -c /Users/steventang/Projects/WebAssembly-obfuscator/src/common.cc",
+  "file": "/Users/steventang/Projects/WebAssembly-obfuscator/src/common.cc"
+},
+{
+  "directory": "/Users/steventang/Projects/WebAssembly-obfuscator/build",
+  "command": "/Library/Developer/CommandLineTools/usr/bin/c++  -D__STDC_FORMAT_MACROS=1 -D__STDC_LIMIT_MACROS=1 -I/Users/steventang/Projects/WebAssembly-obfuscator -I/Users/steventang/Projects/WebAssembly-obfuscator/build   -std=c++11 -Wold-style-cast -fno-exceptions -isysroot /Library/Developer/CommandLineTools/SDKs/MacOSX10.15.sdk   -Wall -Wextra -Wno-unused-parameter -Wpointer-arith -g -Wuninitialized -o CMakeFiles/wabt.dir/src/config.cc.o -c /Users/steventang/Projects/WebAssembly-obfuscator/src/config.cc",
+  "file": "/Users/steventang/Projects/WebAssembly-obfuscator/src/config.cc"
+},
+{
+  "directory": "/Users/steventang/Projects/WebAssembly-obfuscator/build",
+  "command": "/Library/Developer/CommandLineTools/usr/bin/c++  -D__STDC_FORMAT_MACROS=1 -D__STDC_LIMIT_MACROS=1 -I/Users/steventang/Projects/WebAssembly-obfuscator -I/Users/steventang/Projects/WebAssembly-obfuscator/build   -std=c++11 -Wold-style-cast -fno-exceptions -isysroot /Library/Developer/CommandLineTools/SDKs/MacOSX10.15.sdk   -Wall -Wextra -Wno-unused-parameter -Wpointer-arith -g -Wuninitialized -o CMakeFiles/wabt.dir/src/decompiler.cc.o -c /Users/steventang/Projects/WebAssembly-obfuscator/src/decompiler.cc",
+  "file": "/Users/steventang/Projects/WebAssembly-obfuscator/src/decompiler.cc"
+},
+{
+  "directory": "/Users/steventang/Projects/WebAssembly-obfuscator/build",
+  "command": "/Library/Developer/CommandLineTools/usr/bin/c++  -D__STDC_FORMAT_MACROS=1 -D__STDC_LIMIT_MACROS=1 -I/Users/steventang/Projects/WebAssembly-obfuscator -I/Users/steventang/Projects/WebAssembly-obfuscator/build   -std=c++11 -Wold-style-cast -fno-exceptions -isysroot /Library/Developer/CommandLineTools/SDKs/MacOSX10.15.sdk   -Wall -Wextra -Wno-unused-parameter -Wpointer-arith -g -Wuninitialized -o CMakeFiles/wabt.dir/src/error-formatter.cc.o -c /Users/steventang/Projects/WebAssembly-obfuscator/src/error-formatter.cc",
+  "file": "/Users/steventang/Projects/WebAssembly-obfuscator/src/error-formatter.cc"
+},
+{
+  "directory": "/Users/steventang/Projects/WebAssembly-obfuscator/build",
+  "command": "/Library/Developer/CommandLineTools/usr/bin/c++  -D__STDC_FORMAT_MACROS=1 -D__STDC_LIMIT_MACROS=1 -I/Users/steventang/Projects/WebAssembly-obfuscator -I/Users/steventang/Projects/WebAssembly-obfuscator/build   -std=c++11 -Wold-style-cast -fno-exceptions -isysroot /Library/Developer/CommandLineTools/SDKs/MacOSX10.15.sdk   -Wall -Wextra -Wno-unused-parameter -Wpointer-arith -g -Wuninitialized -o CMakeFiles/wabt.dir/src/expr-visitor.cc.o -c /Users/steventang/Projects/WebAssembly-obfuscator/src/expr-visitor.cc",
+  "file": "/Users/steventang/Projects/WebAssembly-obfuscator/src/expr-visitor.cc"
+},
+{
+  "directory": "/Users/steventang/Projects/WebAssembly-obfuscator/build",
+  "command": "/Library/Developer/CommandLineTools/usr/bin/c++  -D__STDC_FORMAT_MACROS=1 -D__STDC_LIMIT_MACROS=1 -I/Users/steventang/Projects/WebAssembly-obfuscator -I/Users/steventang/Projects/WebAssembly-obfuscator/build   -std=c++11 -Wold-style-cast -fno-exceptions -isysroot /Library/Developer/CommandLineTools/SDKs/MacOSX10.15.sdk   -Wall -Wextra -Wno-unused-parameter -Wpointer-arith -g -Wuninitialized -o CMakeFiles/wabt.dir/src/feature.cc.o -c /Users/steventang/Projects/WebAssembly-obfuscator/src/feature.cc",
+  "file": "/Users/steventang/Projects/WebAssembly-obfuscator/src/feature.cc"
+},
+{
+  "directory": "/Users/steventang/Projects/WebAssembly-obfuscator/build",
+  "command": "/Library/Developer/CommandLineTools/usr/bin/c++  -D__STDC_FORMAT_MACROS=1 -D__STDC_LIMIT_MACROS=1 -I/Users/steventang/Projects/WebAssembly-obfuscator -I/Users/steventang/Projects/WebAssembly-obfuscator/build   -std=c++11 -Wold-style-cast -fno-exceptions -isysroot /Library/Developer/CommandLineTools/SDKs/MacOSX10.15.sdk   -Wall -Wextra -Wno-unused-parameter -Wpointer-arith -g -Wuninitialized -o CMakeFiles/wabt.dir/src/filenames.cc.o -c /Users/steventang/Projects/WebAssembly-obfuscator/src/filenames.cc",
+  "file": "/Users/steventang/Projects/WebAssembly-obfuscator/src/filenames.cc"
+},
+{
+  "directory": "/Users/steventang/Projects/WebAssembly-obfuscator/build",
+  "command": "/Library/Developer/CommandLineTools/usr/bin/c++  -D__STDC_FORMAT_MACROS=1 -D__STDC_LIMIT_MACROS=1 -I/Users/steventang/Projects/WebAssembly-obfuscator -I/Users/steventang/Projects/WebAssembly-obfuscator/build   -std=c++11 -Wold-style-cast -fno-exceptions -isysroot /Library/Developer/CommandLineTools/SDKs/MacOSX10.15.sdk   -Wall -Wextra -Wno-unused-parameter -Wpointer-arith -g -Wuninitialized -o CMakeFiles/wabt.dir/src/generate-names.cc.o -c /Users/steventang/Projects/WebAssembly-obfuscator/src/generate-names.cc",
+  "file": "/Users/steventang/Projects/WebAssembly-obfuscator/src/generate-names.cc"
+},
+{
+  "directory": "/Users/steventang/Projects/WebAssembly-obfuscator/build",
+  "command": "/Library/Developer/CommandLineTools/usr/bin/c++  -D__STDC_FORMAT_MACROS=1 -D__STDC_LIMIT_MACROS=1 -I/Users/steventang/Projects/WebAssembly-obfuscator -I/Users/steventang/Projects/WebAssembly-obfuscator/build   -std=c++11 -Wold-style-cast -fno-exceptions -isysroot /Library/Developer/CommandLineTools/SDKs/MacOSX10.15.sdk   -Wall -Wextra -Wno-unused-parameter -Wpointer-arith -g -Wuninitialized -o CMakeFiles/wabt.dir/src/hash-util.cc.o -c /Users/steventang/Projects/WebAssembly-obfuscator/src/hash-util.cc",
+  "file": "/Users/steventang/Projects/WebAssembly-obfuscator/src/hash-util.cc"
+},
+{
+  "directory": "/Users/steventang/Projects/WebAssembly-obfuscator/build",
+  "command": "/Library/Developer/CommandLineTools/usr/bin/c++  -D__STDC_FORMAT_MACROS=1 -D__STDC_LIMIT_MACROS=1 -I/Users/steventang/Projects/WebAssembly-obfuscator -I/Users/steventang/Projects/WebAssembly-obfuscator/build   -std=c++11 -Wold-style-cast -fno-exceptions -isysroot /Library/Developer/CommandLineTools/SDKs/MacOSX10.15.sdk   -Wall -Wextra -Wno-unused-parameter -Wpointer-arith -g -Wuninitialized -o CMakeFiles/wabt.dir/src/ir.cc.o -c /Users/steventang/Projects/WebAssembly-obfuscator/src/ir.cc",
+  "file": "/Users/steventang/Projects/WebAssembly-obfuscator/src/ir.cc"
+},
+{
+  "directory": "/Users/steventang/Projects/WebAssembly-obfuscator/build",
+  "command": "/Library/Developer/CommandLineTools/usr/bin/c++  -D__STDC_FORMAT_MACROS=1 -D__STDC_LIMIT_MACROS=1 -I/Users/steventang/Projects/WebAssembly-obfuscator -I/Users/steventang/Projects/WebAssembly-obfuscator/build   -std=c++11 -Wold-style-cast -fno-exceptions -isysroot /Library/Developer/CommandLineTools/SDKs/MacOSX10.15.sdk   -Wall -Wextra -Wno-unused-parameter -Wpointer-arith -g -Wuninitialized -o CMakeFiles/wabt.dir/src/ir-util.cc.o -c /Users/steventang/Projects/WebAssembly-obfuscator/src/ir-util.cc",
+  "file": "/Users/steventang/Projects/WebAssembly-obfuscator/src/ir-util.cc"
+},
+{
+  "directory": "/Users/steventang/Projects/WebAssembly-obfuscator/build",
+  "command": "/Library/Developer/CommandLineTools/usr/bin/c++  -D__STDC_FORMAT_MACROS=1 -D__STDC_LIMIT_MACROS=1 -I/Users/steventang/Projects/WebAssembly-obfuscator -I/Users/steventang/Projects/WebAssembly-obfuscator/build   -std=c++11 -Wold-style-cast -fno-exceptions -isysroot /Library/Developer/CommandLineTools/SDKs/MacOSX10.15.sdk   -Wall -Wextra -Wno-unused-parameter -Wpointer-arith -g -Wuninitialized -o CMakeFiles/wabt.dir/src/leb128.cc.o -c /Users/steventang/Projects/WebAssembly-obfuscator/src/leb128.cc",
+  "file": "/Users/steventang/Projects/WebAssembly-obfuscator/src/leb128.cc"
+},
+{
+  "directory": "/Users/steventang/Projects/WebAssembly-obfuscator/build",
+  "command": "/Library/Developer/CommandLineTools/usr/bin/c++  -D__STDC_FORMAT_MACROS=1 -D__STDC_LIMIT_MACROS=1 -I/Users/steventang/Projects/WebAssembly-obfuscator -I/Users/steventang/Projects/WebAssembly-obfuscator/build   -std=c++11 -Wold-style-cast -fno-exceptions -isysroot /Library/Developer/CommandLineTools/SDKs/MacOSX10.15.sdk   -Wall -Wextra -Wno-unused-parameter -Wpointer-arith -g -Wuninitialized -o CMakeFiles/wabt.dir/src/lexer-source.cc.o -c /Users/steventang/Projects/WebAssembly-obfuscator/src/lexer-source.cc",
+  "file": "/Users/steventang/Projects/WebAssembly-obfuscator/src/lexer-source.cc"
+},
+{
+  "directory": "/Users/steventang/Projects/WebAssembly-obfuscator/build",
+  "command": "/Library/Developer/CommandLineTools/usr/bin/c++  -D__STDC_FORMAT_MACROS=1 -D__STDC_LIMIT_MACROS=1 -I/Users/steventang/Projects/WebAssembly-obfuscator -I/Users/steventang/Projects/WebAssembly-obfuscator/build   -std=c++11 -Wold-style-cast -fno-exceptions -isysroot /Library/Developer/CommandLineTools/SDKs/MacOSX10.15.sdk   -Wall -Wextra -Wno-unused-parameter -Wpointer-arith -g -Wuninitialized -o CMakeFiles/wabt.dir/src/lexer-source-line-finder.cc.o -c /Users/steventang/Projects/WebAssembly-obfuscator/src/lexer-source-line-finder.cc",
+  "file": "/Users/steventang/Projects/WebAssembly-obfuscator/src/lexer-source-line-finder.cc"
+},
+{
+  "directory": "/Users/steventang/Projects/WebAssembly-obfuscator/build",
+  "command": "/Library/Developer/CommandLineTools/usr/bin/c++  -D__STDC_FORMAT_MACROS=1 -D__STDC_LIMIT_MACROS=1 -I/Users/steventang/Projects/WebAssembly-obfuscator -I/Users/steventang/Projects/WebAssembly-obfuscator/build   -std=c++11 -Wold-style-cast -fno-exceptions -isysroot /Library/Developer/CommandLineTools/SDKs/MacOSX10.15.sdk   -Wall -Wextra -Wno-unused-parameter -Wpointer-arith -g -Wuninitialized -o CMakeFiles/wabt.dir/src/literal.cc.o -c /Users/steventang/Projects/WebAssembly-obfuscator/src/literal.cc",
+  "file": "/Users/steventang/Projects/WebAssembly-obfuscator/src/literal.cc"
+},
+{
+  "directory": "/Users/steventang/Projects/WebAssembly-obfuscator/build",
+  "command": "/Library/Developer/CommandLineTools/usr/bin/c++  -D__STDC_FORMAT_MACROS=1 -D__STDC_LIMIT_MACROS=1 -I/Users/steventang/Projects/WebAssembly-obfuscator -I/Users/steventang/Projects/WebAssembly-obfuscator/build   -std=c++11 -Wold-style-cast -fno-exceptions -isysroot /Library/Developer/CommandLineTools/SDKs/MacOSX10.15.sdk   -Wall -Wextra -Wno-unused-parameter -Wpointer-arith -g -Wuninitialized -o CMakeFiles/wabt.dir/src/opcode.cc.o -c /Users/steventang/Projects/WebAssembly-obfuscator/src/opcode.cc",
+  "file": "/Users/steventang/Projects/WebAssembly-obfuscator/src/opcode.cc"
+},
+{
+  "directory": "/Users/steventang/Projects/WebAssembly-obfuscator/build",
+  "command": "/Library/Developer/CommandLineTools/usr/bin/cc -D__STDC_FORMAT_MACROS=1 -D__STDC_LIMIT_MACROS=1 -I/Users/steventang/Projects/WebAssembly-obfuscator -I/Users/steventang/Projects/WebAssembly-obfuscator/build   -isysroot /Library/Developer/CommandLineTools/SDKs/MacOSX10.15.sdk   -Wall -Wextra -Wno-unused-parameter -Wpointer-arith -g -Wuninitialized -o CMakeFiles/wabt.dir/src/opcode-code-table.c.o   -c /Users/steventang/Projects/WebAssembly-obfuscator/src/opcode-code-table.c",
+  "file": "/Users/steventang/Projects/WebAssembly-obfuscator/src/opcode-code-table.c"
+},
+{
+  "directory": "/Users/steventang/Projects/WebAssembly-obfuscator/build",
+  "command": "/Library/Developer/CommandLineTools/usr/bin/c++  -D__STDC_FORMAT_MACROS=1 -D__STDC_LIMIT_MACROS=1 -I/Users/steventang/Projects/WebAssembly-obfuscator -I/Users/steventang/Projects/WebAssembly-obfuscator/build   -std=c++11 -Wold-style-cast -fno-exceptions -isysroot /Library/Developer/CommandLineTools/SDKs/MacOSX10.15.sdk   -Wall -Wextra -Wno-unused-parameter -Wpointer-arith -g -Wuninitialized -o CMakeFiles/wabt.dir/src/option-parser.cc.o -c /Users/steventang/Projects/WebAssembly-obfuscator/src/option-parser.cc",
+  "file": "/Users/steventang/Projects/WebAssembly-obfuscator/src/option-parser.cc"
+},
+{
+  "directory": "/Users/steventang/Projects/WebAssembly-obfuscator/build",
+  "command": "/Library/Developer/CommandLineTools/usr/bin/c++  -D__STDC_FORMAT_MACROS=1 -D__STDC_LIMIT_MACROS=1 -I/Users/steventang/Projects/WebAssembly-obfuscator -I/Users/steventang/Projects/WebAssembly-obfuscator/build   -std=c++11 -Wold-style-cast -fno-exceptions -isysroot /Library/Developer/CommandLineTools/SDKs/MacOSX10.15.sdk   -Wall -Wextra -Wno-unused-parameter -Wpointer-arith -g -Wuninitialized -o CMakeFiles/wabt.dir/src/resolve-names.cc.o -c /Users/steventang/Projects/WebAssembly-obfuscator/src/resolve-names.cc",
+  "file": "/Users/steventang/Projects/WebAssembly-obfuscator/src/resolve-names.cc"
+},
+{
+  "directory": "/Users/steventang/Projects/WebAssembly-obfuscator/build",
+  "command": "/Library/Developer/CommandLineTools/usr/bin/c++  -D__STDC_FORMAT_MACROS=1 -D__STDC_LIMIT_MACROS=1 -I/Users/steventang/Projects/WebAssembly-obfuscator -I/Users/steventang/Projects/WebAssembly-obfuscator/build   -std=c++11 -Wold-style-cast -fno-exceptions -isysroot /Library/Developer/CommandLineTools/SDKs/MacOSX10.15.sdk   -Wall -Wextra -Wno-unused-parameter -Wpointer-arith -g -Wuninitialized -o CMakeFiles/wabt.dir/src/shared-validator.cc.o -c /Users/steventang/Projects/WebAssembly-obfuscator/src/shared-validator.cc",
+  "file": "/Users/steventang/Projects/WebAssembly-obfuscator/src/shared-validator.cc"
+},
+{
+  "directory": "/Users/steventang/Projects/WebAssembly-obfuscator/build",
+  "command": "/Library/Developer/CommandLineTools/usr/bin/c++  -D__STDC_FORMAT_MACROS=1 -D__STDC_LIMIT_MACROS=1 -I/Users/steventang/Projects/WebAssembly-obfuscator -I/Users/steventang/Projects/WebAssembly-obfuscator/build   -std=c++11 -Wold-style-cast -fno-exceptions -isysroot /Library/Developer/CommandLineTools/SDKs/MacOSX10.15.sdk   -Wall -Wextra -Wno-unused-parameter -Wpointer-arith -g -Wuninitialized -o CMakeFiles/wabt.dir/src/stream.cc.o -c /Users/steventang/Projects/WebAssembly-obfuscator/src/stream.cc",
+  "file": "/Users/steventang/Projects/WebAssembly-obfuscator/src/stream.cc"
+},
+{
+  "directory": "/Users/steventang/Projects/WebAssembly-obfuscator/build",
+  "command": "/Library/Developer/CommandLineTools/usr/bin/c++  -D__STDC_FORMAT_MACROS=1 -D__STDC_LIMIT_MACROS=1 -I/Users/steventang/Projects/WebAssembly-obfuscator -I/Users/steventang/Projects/WebAssembly-obfuscator/build   -std=c++11 -Wold-style-cast -fno-exceptions -isysroot /Library/Developer/CommandLineTools/SDKs/MacOSX10.15.sdk   -Wall -Wextra -Wno-unused-parameter -Wpointer-arith -g -Wuninitialized -o CMakeFiles/wabt.dir/src/string-view.cc.o -c /Users/steventang/Projects/WebAssembly-obfuscator/src/string-view.cc",
+  "file": "/Users/steventang/Projects/WebAssembly-obfuscator/src/string-view.cc"
+},
+{
+  "directory": "/Users/steventang/Projects/WebAssembly-obfuscator/build",
+  "command": "/Library/Developer/CommandLineTools/usr/bin/c++  -D__STDC_FORMAT_MACROS=1 -D__STDC_LIMIT_MACROS=1 -I/Users/steventang/Projects/WebAssembly-obfuscator -I/Users/steventang/Projects/WebAssembly-obfuscator/build   -std=c++11 -Wold-style-cast -fno-exceptions -isysroot /Library/Developer/CommandLineTools/SDKs/MacOSX10.15.sdk   -Wall -Wextra -Wno-unused-parameter -Wpointer-arith -g -Wuninitialized -o CMakeFiles/wabt.dir/src/token.cc.o -c /Users/steventang/Projects/WebAssembly-obfuscator/src/token.cc",
+  "file": "/Users/steventang/Projects/WebAssembly-obfuscator/src/token.cc"
+},
+{
+  "directory": "/Users/steventang/Projects/WebAssembly-obfuscator/build",
+  "command": "/Library/Developer/CommandLineTools/usr/bin/c++  -D__STDC_FORMAT_MACROS=1 -D__STDC_LIMIT_MACROS=1 -I/Users/steventang/Projects/WebAssembly-obfuscator -I/Users/steventang/Projects/WebAssembly-obfuscator/build   -std=c++11 -Wold-style-cast -fno-exceptions -isysroot /Library/Developer/CommandLineTools/SDKs/MacOSX10.15.sdk   -Wall -Wextra -Wno-unused-parameter -Wpointer-arith -g -Wuninitialized -o CMakeFiles/wabt.dir/src/tracing.cc.o -c /Users/steventang/Projects/WebAssembly-obfuscator/src/tracing.cc",
+  "file": "/Users/steventang/Projects/WebAssembly-obfuscator/src/tracing.cc"
+},
+{
+  "directory": "/Users/steventang/Projects/WebAssembly-obfuscator/build",
+  "command": "/Library/Developer/CommandLineTools/usr/bin/c++  -D__STDC_FORMAT_MACROS=1 -D__STDC_LIMIT_MACROS=1 -I/Users/steventang/Projects/WebAssembly-obfuscator -I/Users/steventang/Projects/WebAssembly-obfuscator/build   -std=c++11 -Wold-style-cast -fno-exceptions -isysroot /Library/Developer/CommandLineTools/SDKs/MacOSX10.15.sdk   -Wall -Wextra -Wno-unused-parameter -Wpointer-arith -g -Wuninitialized -o CMakeFiles/wabt.dir/src/type-checker.cc.o -c /Users/steventang/Projects/WebAssembly-obfuscator/src/type-checker.cc",
+  "file": "/Users/steventang/Projects/WebAssembly-obfuscator/src/type-checker.cc"
+},
+{
+  "directory": "/Users/steventang/Projects/WebAssembly-obfuscator/build",
+  "command": "/Library/Developer/CommandLineTools/usr/bin/c++  -D__STDC_FORMAT_MACROS=1 -D__STDC_LIMIT_MACROS=1 -I/Users/steventang/Projects/WebAssembly-obfuscator -I/Users/steventang/Projects/WebAssembly-obfuscator/build   -std=c++11 -Wold-style-cast -fno-exceptions -isysroot /Library/Developer/CommandLineTools/SDKs/MacOSX10.15.sdk   -Wall -Wextra -Wno-unused-parameter -Wpointer-arith -g -Wuninitialized -o CMakeFiles/wabt.dir/src/utf8.cc.o -c /Users/steventang/Projects/WebAssembly-obfuscator/src/utf8.cc",
+  "file": "/Users/steventang/Projects/WebAssembly-obfuscator/src/utf8.cc"
+},
+{
+  "directory": "/Users/steventang/Projects/WebAssembly-obfuscator/build",
+  "command": "/Library/Developer/CommandLineTools/usr/bin/c++  -D__STDC_FORMAT_MACROS=1 -D__STDC_LIMIT_MACROS=1 -I/Users/steventang/Projects/WebAssembly-obfuscator -I/Users/steventang/Projects/WebAssembly-obfuscator/build   -std=c++11 -Wold-style-cast -fno-exceptions -isysroot /Library/Developer/CommandLineTools/SDKs/MacOSX10.15.sdk   -Wall -Wextra -Wno-unused-parameter -Wpointer-arith -g -Wuninitialized -o CMakeFiles/wabt.dir/src/validator.cc.o -c /Users/steventang/Projects/WebAssembly-obfuscator/src/validator.cc",
+  "file": "/Users/steventang/Projects/WebAssembly-obfuscator/src/validator.cc"
+},
+{
+  "directory": "/Users/steventang/Projects/WebAssembly-obfuscator/build",
+  "command": "/Library/Developer/CommandLineTools/usr/bin/c++  -D__STDC_FORMAT_MACROS=1 -D__STDC_LIMIT_MACROS=1 -I/Users/steventang/Projects/WebAssembly-obfuscator -I/Users/steventang/Projects/WebAssembly-obfuscator/build   -std=c++11 -Wold-style-cast -fno-exceptions -isysroot /Library/Developer/CommandLineTools/SDKs/MacOSX10.15.sdk   -Wall -Wextra -Wno-unused-parameter -Wpointer-arith -g -Wuninitialized -o CMakeFiles/wabt.dir/src/wast-lexer.cc.o -c /Users/steventang/Projects/WebAssembly-obfuscator/src/wast-lexer.cc",
+  "file": "/Users/steventang/Projects/WebAssembly-obfuscator/src/wast-lexer.cc"
+},
+{
+  "directory": "/Users/steventang/Projects/WebAssembly-obfuscator/build",
+  "command": "/Library/Developer/CommandLineTools/usr/bin/c++  -D__STDC_FORMAT_MACROS=1 -D__STDC_LIMIT_MACROS=1 -I/Users/steventang/Projects/WebAssembly-obfuscator -I/Users/steventang/Projects/WebAssembly-obfuscator/build   -std=c++11 -Wold-style-cast -fno-exceptions -isysroot /Library/Developer/CommandLineTools/SDKs/MacOSX10.15.sdk   -Wall -Wextra -Wno-unused-parameter -Wpointer-arith -g -Wuninitialized -o CMakeFiles/wabt.dir/src/wast-parser.cc.o -c /Users/steventang/Projects/WebAssembly-obfuscator/src/wast-parser.cc",
+  "file": "/Users/steventang/Projects/WebAssembly-obfuscator/src/wast-parser.cc"
+},
+{
+  "directory": "/Users/steventang/Projects/WebAssembly-obfuscator/build",
+  "command": "/Library/Developer/CommandLineTools/usr/bin/c++  -D__STDC_FORMAT_MACROS=1 -D__STDC_LIMIT_MACROS=1 -I/Users/steventang/Projects/WebAssembly-obfuscator -I/Users/steventang/Projects/WebAssembly-obfuscator/build   -std=c++11 -Wold-style-cast -fno-exceptions -isysroot /Library/Developer/CommandLineTools/SDKs/MacOSX10.15.sdk   -Wall -Wextra -Wno-unused-parameter -Wpointer-arith -g -Wuninitialized -o CMakeFiles/wabt.dir/src/wat-writer.cc.o -c /Users/steventang/Projects/WebAssembly-obfuscator/src/wat-writer.cc",
+  "file": "/Users/steventang/Projects/WebAssembly-obfuscator/src/wat-writer.cc"
+},
+{
+  "directory": "/Users/steventang/Projects/WebAssembly-obfuscator/build",
+  "command": "/Library/Developer/CommandLineTools/usr/bin/c++  -D__STDC_FORMAT_MACROS=1 -D__STDC_LIMIT_MACROS=1 -I/Users/steventang/Projects/WebAssembly-obfuscator -I/Users/steventang/Projects/WebAssembly-obfuscator/build   -std=c++11 -Wold-style-cast -fno-exceptions -isysroot /Library/Developer/CommandLineTools/SDKs/MacOSX10.15.sdk   -Wall -Wextra -Wno-unused-parameter -Wpointer-arith -g -Wuninitialized -o CMakeFiles/wabt.dir/src/obfuscator.cc.o -c /Users/steventang/Projects/WebAssembly-obfuscator/src/obfuscator.cc",
+  "file": "/Users/steventang/Projects/WebAssembly-obfuscator/src/obfuscator.cc"
+},
+{
+  "directory": "/Users/steventang/Projects/WebAssembly-obfuscator/build",
+  "command": "/Library/Developer/CommandLineTools/usr/bin/c++  -D__STDC_FORMAT_MACROS=1 -D__STDC_LIMIT_MACROS=1 -I/Users/steventang/Projects/WebAssembly-obfuscator -I/Users/steventang/Projects/WebAssembly-obfuscator/build   -std=c++11 -Wold-style-cast -fno-exceptions -isysroot /Library/Developer/CommandLineTools/SDKs/MacOSX10.15.sdk   -Wall -Wextra -Wno-unused-parameter -Wpointer-arith -g -Wuninitialized -o CMakeFiles/wabt.dir/src/interp/binary-reader-interp.cc.o -c /Users/steventang/Projects/WebAssembly-obfuscator/src/interp/binary-reader-interp.cc",
+  "file": "/Users/steventang/Projects/WebAssembly-obfuscator/src/interp/binary-reader-interp.cc"
+},
+{
+  "directory": "/Users/steventang/Projects/WebAssembly-obfuscator/build",
+  "command": "/Library/Developer/CommandLineTools/usr/bin/c++  -D__STDC_FORMAT_MACROS=1 -D__STDC_LIMIT_MACROS=1 -I/Users/steventang/Projects/WebAssembly-obfuscator -I/Users/steventang/Projects/WebAssembly-obfuscator/build   -std=c++11 -Wold-style-cast -fno-exceptions -isysroot /Library/Developer/CommandLineTools/SDKs/MacOSX10.15.sdk   -Wall -Wextra -Wno-unused-parameter -Wpointer-arith -g -Wuninitialized -o CMakeFiles/wabt.dir/src/interp/interp.cc.o -c /Users/steventang/Projects/WebAssembly-obfuscator/src/interp/interp.cc",
+  "file": "/Users/steventang/Projects/WebAssembly-obfuscator/src/interp/interp.cc"
+},
+{
+  "directory": "/Users/steventang/Projects/WebAssembly-obfuscator/build",
+  "command": "/Library/Developer/CommandLineTools/usr/bin/c++  -D__STDC_FORMAT_MACROS=1 -D__STDC_LIMIT_MACROS=1 -I/Users/steventang/Projects/WebAssembly-obfuscator -I/Users/steventang/Projects/WebAssembly-obfuscator/build   -std=c++11 -Wold-style-cast -fno-exceptions -isysroot /Library/Developer/CommandLineTools/SDKs/MacOSX10.15.sdk   -Wall -Wextra -Wno-unused-parameter -Wpointer-arith -g -Wuninitialized -o CMakeFiles/wabt.dir/src/interp/interp-util.cc.o -c /Users/steventang/Projects/WebAssembly-obfuscator/src/interp/interp-util.cc",
+  "file": "/Users/steventang/Projects/WebAssembly-obfuscator/src/interp/interp-util.cc"
+},
+{
+  "directory": "/Users/steventang/Projects/WebAssembly-obfuscator/build",
+  "command": "/Library/Developer/CommandLineTools/usr/bin/c++  -D__STDC_FORMAT_MACROS=1 -D__STDC_LIMIT_MACROS=1 -I/Users/steventang/Projects/WebAssembly-obfuscator -I/Users/steventang/Projects/WebAssembly-obfuscator/build   -std=c++11 -Wold-style-cast -fno-exceptions -isysroot /Library/Developer/CommandLineTools/SDKs/MacOSX10.15.sdk   -Wall -Wextra -Wno-unused-parameter -Wpointer-arith -g -Wuninitialized -o CMakeFiles/wabt.dir/src/interp/istream.cc.o -c /Users/steventang/Projects/WebAssembly-obfuscator/src/interp/istream.cc",
+  "file": "/Users/steventang/Projects/WebAssembly-obfuscator/src/interp/istream.cc"
+}
+]

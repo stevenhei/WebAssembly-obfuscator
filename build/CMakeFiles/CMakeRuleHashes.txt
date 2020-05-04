@@ -1,0 +1,3 @@
+# Hashes of file build rules.
+46d8cb9f788868ce3be44db7f3732609 CMakeFiles/wasm2wat-copy-to-bin
+02442e10b4cac575c640e36446af6e03 CMakeFiles/wat-obfuscator-copy-to-bin
