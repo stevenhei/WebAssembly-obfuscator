@@ -1,1 +1,0 @@
-/Library/Developer/CommandLineTools/usr/bin/c++   -std=c++11 -Wold-style-cast -fno-exceptions -isysroot /Library/Developer/CommandLineTools/SDKs/MacOSX10.15.sdk -Wl,-search_paths_first -Wl,-headerpad_max_install_names  CMakeFiles/wat-obfuscator.dir/src/tools/wat2wasm.cc.o  -o wat-obfuscator  libwabt.a 

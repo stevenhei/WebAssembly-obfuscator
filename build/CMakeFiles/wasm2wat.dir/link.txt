@@ -1,1 +1,0 @@
-/Library/Developer/CommandLineTools/usr/bin/c++   -std=c++11 -Wold-style-cast -fno-exceptions -isysroot /Library/Developer/CommandLineTools/SDKs/MacOSX10.15.sdk -Wl,-search_paths_first -Wl,-headerpad_max_install_names  CMakeFiles/wasm2wat.dir/src/tools/wasm2wat.cc.o  -o wasm2wat  libwabt.a 
